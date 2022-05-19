@@ -1,3 +1,16 @@
+## 👌 Hello! Welcome to my Github profile
+### My name is Igor and my nickname is Darkyie =D
 [![Darkyie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darkyie&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darkyie&layout=compact&theme=radical&card_width=445)](https://github.com/Darkyie)
-![example workflow](https://github.com/Darkyie/Darkyie/actions/workflows/snake.yml/badge.svg)
+### Learning
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" />
+### How to contact me:
+
+<div>
+<a href="https://instagram.com/igorbenites" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.twitch.tv/Darkigorbg" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+<a href = "mailto:igor.benites.moura@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+          
+![Snake animation](https://github.com/Darkyie/Darkyie/blob/output/github-contribution-grid-snake.svg)
