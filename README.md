@@ -1,10 +1,10 @@
-## 👌 Hello! Welcome to my Github profile
-### My name is Igor and my nickname is Darkyie =D
+## 👌 Hello! Welcome to my Github profile / Seja bem-vindo ao meu perfil do Github :))))
+### My name is Igor and my nickname is Darkyie / Meu nome é Igor e meu apelido é Darkyie =D
 [![Darkyie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darkyie&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darkyie&layout=compact&theme=radical&card_width=445)](https://github.com/Darkyie)
-### Learning
+### Learning: / Aprendendo:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" />
-### How to contact me:
+### How to contact me: / Como me contactar:
 
 <div>
 <a href="https://instagram.com/igorbenites" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
